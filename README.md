@@ -1,4 +1,0 @@
-etl
-===
-
-Python ETL Library
